@@ -1,0 +1,12 @@
+balogh.s: 9
+fodor.r: 11
+horvath.m: 10
+kiss.h: 3
+kiss.z: 4
+kovacs.p: 8
+molnar.b: 5
+nagy.a: 9
+papp.d: 7
+szabo.l: 5
+szabo.s: 4
+toth.e: 5

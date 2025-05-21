@@ -1,0 +1,76 @@
+név; azonosító;  kiszerelés; ár(ft)
+Kenyér (Lipóti);1001;1 kg;450
+Tej (Mizo);1002;1 l;350
+Vaj (Lurpak);1003;250 g;850
+Cukor (Koronás);1004;1 kg;600
+Liszt (Nagyi titka);1005;1 kg;400
+Tojás (Farm Tojás);1006;10 db;750
+Sajt (Tolle Trappista);1007;500 g;1800
+Felvágott (Pick);1008;150 g;950
+Olaj (Vénusz);1009;1 l;1200
+Krumpli (Hazai);1010;2 kg;900
+Hagyma (Hazai);1011;1 kg;500
+Alma (Golden);1012;1 kg;700
+Narancs (Import);1013;1 kg;850
+Csoki (Milka);1014;100 g;400
+Kávé (Nescafé);1015;250 g;1500
+Joghur (Danone);1016;150 g;250
+Keksz (Győri Édes);1017;180 g;500
+Szóda (Buborék);1018;1,5 l;300
+Sonka (Pick);1019;200 g;1200
+Kolbász (Herz);1020;300 g;2000
+Csirkecomb (Hazai);1021;1 kg;1800
+Csirkemell (Hazai);1022;1 kg;2200
+Marhahús (Angus);1023;1 kg;5500
+Hal (Lazac);1024;500 g;4000
+Halrudacska (Iglo);1025;250 g;1200
+Pizza (Dr. Oetker);1026;350 g;1500
+Fagylalt (Carte D'Or);1027;500 ml;1800
+Kakaó (Boci);1028;200 g;700
+Méz (Akác);1029;500 g;2500
+Lekvár (Süzmó);1030;450 g;1200
+Mustár (Globus);1031;500 g;600
+Ketchup (Heinz);1032;500 g;800
+Majonéz (Hellmann's);1033;450 g;900
+Kenyérpirító (Sencor);1034;1 db;4500
+Perec (LaciPecsenye);1035;100 g;350
+Zsemle (Lipóti);1036;1 db;100
+Bagett (Lipóti);1037;250 g;450
+Tújró (Riska);1038;500 g;800
+Tejföl (Spar);1039;330 g;400
+Tészta (Gyermelyi);1040;500 g;550
+Bors (Kotányi);1041;50 g;750
+Paprika (Hazai);1042;1 kg;1200
+Paradicsom (Hazai);1043;1 kg;1000
+Uborka (Hazai);1044;1 kg;950
+Retek (Hazai);1045;1 csomó;450
+Saláta (Hazai);1046;1 fej;500
+Bab (Bonduelle);1047;400 g;600
+Borsó (Bonduelle);1048;400 g;650
+Kukorica (Bonduelle);1049;400 g;700
+Savanyúság (Univer);1050;720 ml;1100
+Csirke nuggets (Iglo);1051;400 g;1700
+Rizs (Basmati);1052;1 kg;1500
+Burgonya hasáb (McCain);1053;1 kg;1200
+Szósz (Univer);1054;300 ml;850
+Csomagolt jég (Spar);1055;2 kg;500
+Tejszín (Meggle);1056;200 ml;650
+Májkrém (Spar);1057;150 g;400
+Limonádé (Fuzetea);1058;500 ml;450
+Energiaital (Hell);1059;250 ml;350
+Sör (Dreher);1060;500 ml;500
+Bor (Tokaji);1061;750 ml;2500
+Pezsgő (Törley);1062;750 ml;2800
+Vodka (Finlandia);1063;700 ml;6000
+Whisky (Jack Daniel's);1064;700 ml;10000
+Gyümölcslé (Sio);1065;1 l;700
+Szénsavas üdítő (Coca-Cola);1066;2 l;650
+Jégkrém (Magnum);1067;3 db;1200
+Instant leves (Knorr);1068;60 g;350
+Leveskocka (Knorr);1069;120 g;600
+Szendvicskrém (Univer);1070;200 g;550
+Ropogtatnivaló (Chio);1071;100 g;800
+Tömör sajt (Karaván);1072;250 g;1200
+Gabonapehely (Nestlé);1073;375 g;1200
+Kész saláta (Bonduelle);1074;200 g;800
+Vegyes gyümölcs (Import);1075;1 kg;1500

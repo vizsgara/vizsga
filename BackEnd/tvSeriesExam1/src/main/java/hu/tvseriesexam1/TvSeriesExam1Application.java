@@ -1,0 +1,13 @@
+package hu.tvseriesexam1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TvSeriesExam1Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TvSeriesExam1Application.class, args);
+    }
+
+}

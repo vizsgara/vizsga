@@ -1,0 +1,87 @@
+body {
+    background-color: #93f28e;
+    min-height: 10vh;
+}
+
+.nav-link.active {
+    text-shadow: 1px 2px white;
+}
+
+.start {
+    background-image: url('img/cover_image.jpg');
+    background-position: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.start h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3c6ef0;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+.tours-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tour-box {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #646060;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+.tour-box:hover{
+    background-color: #d3d3d3;
+    color: blue;
+    box-shadow: 2px 7px 20px black;
+}
+
+#form-3 label {
+    font-weight: bold;
+    color: #555;
+}
+
+#form-3 {
+    padding: 2rem;
+    background-color: #f3f3f3;
+    border: 1px solid #ddd;
+    max-width: 960px;
+    margin: 1rem auto;
+    font-size: 14pt
+}
+
+main {
+    flex: 1;
+}
+
+.site-footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    flex: auto;
+}
+
+.site-footer p{
+    margin: 0px;
+    font-size: 0.9rem;
+}
+.nav-link.active {
+    text-decoration: underline !important;
+}
+@media (max-width: 576px) {
+    .site-footer {
+        background-color: #3c6ef0 !important;
+    }
+}
+@media (min-width:576px) {
+    .nav-link{
+        font-size: 1.2rem;
+    }
+}
